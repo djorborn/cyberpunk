@@ -1,0 +1,14 @@
+There is a cyberpunk theme for chrome based browsers that matches these themes.
+I use a "dark reader" extension that makes pages dark, called TLV.
+You can create a custom theme. This is the colors for this extention so it matches 
+everything else.
+
+Background - 332a57
+
+Text - e5e5e5
+
+Border - 00fbac
+
+Link - 86cbfe
+
+Visited - df95ff
