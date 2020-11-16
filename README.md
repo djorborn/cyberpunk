@@ -6,3 +6,5 @@ I think i got that right but idk..
 I really like this theme though.
 
 You can make more themes at terminal.sexy
+
+![image](https://raw.githubusercontent.com/djorborn/cyberpunk/main/alacritty_cyberpunktheme.png)
